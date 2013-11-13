@@ -1,5 +1,39 @@
+// This is a manifest file that'll be compiled into application.js, which will include all the files
+// listed below.
+//
+// Any JavaScript/Coffee file within this directory, lib/assets/javascripts, vendor/assets/javascripts,
+// or vendor/assets/javascripts of plugins, if any, can be referenced here using a relative path.
+//
+// It's not advisable to add code directly here, but if you do, it'll appear at the bottom of the
+// compiled file.
+//
+// Read Sprockets README (https://github.com/sstephenson/sprockets#sprockets-directives) for details
+// about supported directives.
+//
 //= require jquery
 //= require jquery_ujs
+//= require jquery-1.9.1.min
+//= require js/jquery.isotope.min
+//= require js/jquery.imagesloaded
+//= require bootstrap.min
+//= require flexslider
+//= require carousel
+//= require js/jquery.cslider
+//= require slider
+//= require js/jquery.fancybox
+//= require js/twitter
+//= require js/jquery.placeholder.min
+//= require jquery-easing-1.3
+//= require js/layerslider.kreaturamedia.jquery
+//= require js/excanvas
+//= require js/jquery.flot
+//= require js/jquery.flot.pie.min
+//= require js/jquery.flot.stack
+//= require js/jquery.flot.resize.min
+//= require js/modernizr
+//= require js/retina
+//= require js/custom
+//= require_tree .
 
 $(document).ready(function(){
 
